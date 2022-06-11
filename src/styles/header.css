@@ -1,0 +1,20 @@
+.header-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+
+  gap: 1.875rem;
+  overflow: hidden;
+}
+
+img {
+  width: 5rem;
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  color: #fff;
+}
